@@ -1,0 +1,7 @@
+crewai[litellm]>=1.15,<2
+streamlit>=1.40,<2
+requests>=2.32
+opencv-python-headless>=4.10
+numpy>=1.26
+pillow>=10.4
+pysqlite3-binary; sys_platform == "linux"
